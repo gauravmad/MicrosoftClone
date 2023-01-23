@@ -1,5 +1,6 @@
 # I made a Microsoft WebSite Clone
 This static web page is fully responsive and purely made by HTML and Tailwind CSS, and no vanilla CSS is been used.
+You can visit this site:https://gauravmad.github.io/MicrosoftClone/
 ![image](https://user-images.githubusercontent.com/103850488/214098802-d735d83f-082c-4319-8ce6-777053c0eaee.png)
 ![image](https://user-images.githubusercontent.com/103850488/214099248-9e5a104f-f14d-4b72-8e30-8ddeaf251659.png)
 
